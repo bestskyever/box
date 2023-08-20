@@ -1,0 +1,22 @@
+  // Billing fields
+    $fields['billing']['billing_company'] 
+    $fields['billing']['billing_email'] 
+    $fields['billing']['billing_phone'] 
+    $fields['billing']['billing_state'] 
+    $fields['billing']['billing_first_name'] 
+    $fields['billing']['billing_last_name'] 
+    $fields['billing']['billing_address_1'] 
+    $fields['billing']['billing_address_2'] 
+    $fields['billing']['billing_city'] 
+    $fields['billing']['billing_postcode'] 
+
+    // Shipping fields
+    $fields['shipping']['shipping_company'] 
+    $fields['shipping']['shipping_phone'] 
+    $fields['shipping']['shipping_state'] 
+    $fields['shipping']['shipping_first_name'] 
+    $fields['shipping']['shipping_last_name'] 
+    $fields['shipping']['shipping_address_1'] 
+    $fields['shipping']['shipping_address_2'] 
+    $fields['shipping']['shipping_city'] 
+    $fields['shipping']['shipping_postcode']
